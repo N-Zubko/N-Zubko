@@ -1,6 +1,6 @@
 # Hi there and welcome to my github page,
 
-My name is Nadia Zubko and I am a Front-End Web Developer.
+My name is Nadia Zubko and I am a Full Stack Web Developer.
 I love the creativity I have as a developer - there are always multiple ways to solve a problem and every one of them is unique, I love problem solving challenges too!
 
 ## Technologies I know
