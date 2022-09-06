@@ -24,6 +24,7 @@ I am a Full Stack Web Developer. I love the creativity I have as a developer - t
       </a>
       <h3>Shop-Ade</h3>
         <br />
+        <img src="./images/pacman_.png" alt="pac-man icon" />
         <p><a href="https://github.com/the-collab-lab/tcl-45-smart-shopping-list">Repo</a> // <a href="https://tcl-45-shopping-list.web.app/">Site</a> // <a href="https://www.youtube.com/watch?v=zcasTwBOzd4">Demo</a></p>
         <br />
         <p>Shop-Ade is a smart shopping list that learns your buying habits and helps you remember what you need to buy on your next trip to the store.<br />
@@ -32,6 +33,7 @@ I am a Full Stack Web Developer. I love the creativity I have as a developer - t
     <td width="33%" valign="top">
       <h3>OpenAI-Assistant</h3>
         <br />
+        <img src="./images/robot_.png" alt="robot head icon" width="50px"/>
         <p><a href="https://github.com/N-Zubko/OpenAI-assistant">Repo</a></p>
         <br />
         <p>A full-stack interactive and responsive web application is designed to help users find answers related to JavaScript.</p> <br /> 
