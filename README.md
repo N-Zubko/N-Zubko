@@ -38,7 +38,7 @@ I am passionate about problem-solving, creating better user experience and acces
         <p><a href="https://github.com/N-Zubko/OpenAI-assistant">Repo</a> // <a href="https://polar-thicket-37634.herokuapp.com/">Site</a> </p>
         <br />
         <p>A full-stack interactive and responsive web application is designed to help users find answers related to JavaScript.</p> <br /> 
-        <p>Built using React.js, Node.js and ExpressJS, SQLite, React Bootstrap and CSS styled components, OpenAI API to obtain answers</p>
+        <p>Built using React.js, Node.js and ExpressJS, PostgreSQL hosted on bit.io, React Bootstrap and CSS styled components, OpenAI API to obtain answers. Both the frontend and the backend are hosted on Heroku</p>
     </td>
   </tr>
 </table>
