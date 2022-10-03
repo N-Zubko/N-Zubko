@@ -34,7 +34,7 @@ I am a Full Stack Web Developer. I love the creativity I have as a developer - t
       <h3>OpenAI-Assistant</h3>
         <br />
         <img src="./images/robot_.png" alt="robot head icon" width="50px"/>
-        <p><a href="https://github.com/N-Zubko/OpenAI-assistant">Repo</a></p>
+        <p><a href="https://github.com/N-Zubko/OpenAI-assistant">Repo</a> // <a href="https://polar-thicket-37634.herokuapp.com/">Site</a> </p>
         <br />
         <p>A full-stack interactive and responsive web application is designed to help users find answers related to JavaScript.</p> <br /> 
         <p>Built using React.js, Node.js and ExpressJS, SQLite, React Bootstrap and CSS styled components, OpenAI API to obtain answers</p>
