@@ -26,7 +26,7 @@ I am passionate about problem-solving, creating better user experience and acces
       <h3>Shop-Ade</h3>
         <br />
         <img src="./images/pacman_.png" alt="pac-man icon" />
-        <p><a href="https://github.com/the-collab-lab/tcl-45-smart-shopping-list">Repo</a> // <a href="https://tcl-45-shopping-list.web.app/">Site</a> // <a href="https://www.youtube.com/watch?v=zcasTwBOzd4">Demo</a></p>
+        <p><a href="https://github.com/the-collab-lab/tcl-45-smart-shopping-list">Repo</a> // <a href="https://tcl-45-smart-shopping-list.web.app/">Site</a> // <a href="https://www.youtube.com/watch?v=zcasTwBOzd4">Demo</a></p>
         <br />
         <p>Shop-Ade is a smart shopping list that learns your buying habits and helps you remember what you need to buy on your next trip to the store.<br />
         <p>Built using React.js, Firebase/Firestore, and CSS styled components</p>
