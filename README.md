@@ -40,7 +40,6 @@ I am passionate about problem-solving, creating better user experience and acces
         <p>A full-stack interactive and responsive web application is designed to help users find answers related to JavaScript.</p> <br /> 
         <p>Built using React.js, Node.js and ExpressJS, PostgreSQL hosted on bit.io, React Bootstrap and CSS styled components, OpenAI API to obtain answers. Both the frontend and the backend are hosted on Heroku. Use `test` as login and `pass` as password to authenticate.</p>
     </td>
-  </tr>
 </table>
 
 ---
