@@ -18,6 +18,8 @@ I am passionate about problem-solving, creating better user experience and acces
 
 ## Projects
 
+<p>Currently working on <a href="https://github.com/N-Zubko/sort-it-app">Sort_it! app</a>.</p>
+
 <table bordercolor="#66b2b2">
   <tr>
     <td width="33%" valign="top">
