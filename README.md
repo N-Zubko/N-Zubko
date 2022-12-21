@@ -18,7 +18,7 @@ I am passionate about problem-solving, creating better user experience and acces
 
 ## Projects
 
-<p>Currently working on <a href="https://github.com/N-Zubko/sort-it-app">Sort_it! app</a> and <a href="https://github.com/N-Zubko/digital-business-card-builder">responsive landing page for a cafe</a>.</p>
+<p>Currently working on <a href="https://github.com/N-Zubko/sort-it-app">Sort_it! app</a> and <a href="https://github.com/N-Zubko/coffeebar-project">responsive landing page for a cafe</a>.</p>
 
 <table bordercolor="#66b2b2">
   <tr>
