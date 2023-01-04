@@ -37,10 +37,10 @@ I am passionate about problem-solving, creating better user experience and acces
       <h3>OpenAI-Assistant</h3>
         <br />
         <img src="./images/robot_.png" alt="robot head icon" width="50px"/>
-        <p><a href="https://github.com/N-Zubko/OpenAI-assistant">Repo</a> // <a href="https://polar-thicket-37634.herokuapp.com/">Site</a> </p>
+        <p><a href="https://github.com/N-Zubko/OpenAI-assistant">Repo</a> // <a href="openai-js-assistant.up.railway.app/">Site</a> </p>
         <br />
         <p>A full-stack interactive and responsive web application is designed to help users find answers related to JavaScript.</p> <br /> 
-        <p>Built using React.js, Node.js and ExpressJS, PostgreSQL hosted on bit.io, React Bootstrap and CSS styled components, OpenAI API to obtain answers. Both the frontend and the backend are hosted on Heroku. Use `test` as login and `pass` as password to authenticate.</p>
+        <p>Built using React.js, Node.js and ExpressJS, PostgreSQL hosted on bit.io, React Bootstrap and CSS styled components, OpenAI API to obtain answers. Both the frontend and the backend are hosted on Railway. Use `test` as login and `pass` as password to authenticate.</p>
     </td>
 </table>
 
