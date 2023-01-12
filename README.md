@@ -12,9 +12,9 @@ I am passionate about problem-solving, creating better user experience and acces
 <img src="https://camo.githubusercontent.com/870d2945e15dde83583f64ea1f3f4471702e45bf30fa884412da74cb7731ae42/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f536c61636b2d3441313534423f7374796c653d666f722d7468652d6261646765266c6f676f3d736c61636b266c6f676f436f6c6f723d7768697465">
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-![Nadia's gitHub stats](https://github-readme-stats.vercel.app/api?username=n-zubko&theme=primary&show_icons=true) 
+<!-- ![Nadia's gitHub stats](https://github-readme-stats.vercel.app/api?username=n-zubko&theme=primary&show_icons=true) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n-zubko&&theme=light&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n-zubko&&theme=light&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ## Projects
 
